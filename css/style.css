@@ -4,6 +4,13 @@ body {
     font-family: consolas;
 }
 
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #262626;
+    color: #fff;
+}
 section {
     position: relative;
     width: 100%;
